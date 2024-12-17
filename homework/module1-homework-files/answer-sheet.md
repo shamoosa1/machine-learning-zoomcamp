@@ -1,0 +1,22 @@
+## QUESTION 1:
+ANSWER: 2.2.3
+
+## QUESTION 2:
+ANSWER: 2160
+
+## QUESTION 3:
+ANSWER: 27
+
+## QUESTION 4:
+ANSWER: 3
+
+## QUESTION 5:
+ANSWER: 3936.00
+
+## QUESTION 6:
+6a. 15.6
+6b. 15.6
+6c. No, the value has not changed.
+
+## QUESTION 7:
+ANSWER: 2.2.3
