@@ -4,4 +4,4 @@ content:
 * programming practice for modules
 * homework for modules
   
-**link to zoomcamp: https://github.com/DataTalksClub/machine-learning-zoomcamp**
+**link to zoomcamp repo: https://github.com/DataTalksClub/machine-learning-zoomcamp**
