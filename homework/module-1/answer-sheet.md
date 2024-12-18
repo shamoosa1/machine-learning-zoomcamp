@@ -19,4 +19,4 @@ ANSWER: 3936.00
 6c. No, the value has not changed.
 
 ## QUESTION 7:
-ANSWER: 2.2.3
+ANSWER: 
