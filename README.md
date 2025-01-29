@@ -1,6 +1,6 @@
 ## datatalks machine learning zoomcamp 
 
-content:
+repo contains:
 * programming practice for modules
 * homework for modules
   
